@@ -14,7 +14,6 @@ import static org.junit.Assert.*;
  */
 public class MainTest {
 
-
     Vehicle vehicle1;
     Vehicle vehicle2;
     Vehicle vehicle3;

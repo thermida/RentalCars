@@ -15,11 +15,11 @@ public class RatingComparison implements Comparator<Vehicle> {
         double car_2_rating = car_2.getRating();
 
         if (car_1_rating > car_2_rating)
-            return 1;
+            return -1;
         else if (car_1_rating == car_2_rating)
             return 0;
         else if (car_1_rating < car_2_rating)
-            return -1;
+            return 1;
         return 0;
     }
 }
