@@ -4,11 +4,11 @@ Built using Intellij and Maven
 ## Usage
 Use Maven to load the required libraries:
 
-    [JSON](http://mvnrepository.com/artifact/org.json/json/20160212)
+[JSON](http://mvnrepository.com/artifact/org.json/json/20160212)
 
-    [GSON](https://github.com/google/gson)
+[GSON](https://github.com/google/gson)
 
-    [Spark](http://sparkjava.com/)
+[Spark](http://sparkjava.com/)
 
 ## Default Localhost
 localhost:4567
